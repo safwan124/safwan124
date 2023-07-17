@@ -4,7 +4,7 @@
 
 - 💻 I’m currently working on something cool :wink: ;
 
-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate with **something cool**
+- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate with **something new**
 - 🌱 I’m currently learning Reactjs
 - 📫 How to reach me: 
   <br><br>
